@@ -1,4 +1,4 @@
-# clientes
+# servidor
 
 Recebe as imagens enviadas pelos clientes
 
